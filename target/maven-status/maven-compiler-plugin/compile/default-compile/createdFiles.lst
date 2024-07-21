@@ -1,0 +1,6 @@
+me\maotrade\cmd\BuyCommand.class
+me\maotrade\handler\SellOffer.class
+me\maotrade\cmd\SellCommand.class
+me\maotrade\handler\MessageHandler.class
+me\maotrade\handler\EconomyHandler.class
+me\maotrade\MaoTrade.class

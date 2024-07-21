@@ -1,0 +1,9 @@
+name: MaoTrade
+version: '${project.version}'
+main: me.maotrade.MaoTrade
+api-version: 1.16
+commands:
+  mtsell:
+    description: Sell an item in your hand.
+  mtbuy:
+    description: Buy an item from another player.
