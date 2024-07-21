@@ -19,7 +19,7 @@ To buy an item listed for sale by a player with the nickname Steve:
 
 Click on the interactive message in chat.
 Or
-`/mtbuy Steve
+`/mtbuy Steve`
 
 ### Commands ###
 `/mtsell <price>`: Put an item from your hand up for sale at the specified price.
